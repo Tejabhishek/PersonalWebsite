@@ -1,0 +1,27 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "MyWebsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejabhishek/PersonalWebsite.git"
+  },
+  "keywords": [
+    "website",
+    "personal",
+    "portfolio"
+  ],
+  "author": "tejabhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejabhishek/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/Tejabhishek/PersonalWebsite#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
